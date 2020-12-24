@@ -9,12 +9,12 @@ Full Stack Developer
 As my background materialized in the area of T.I focused on systems' development, I focused on achieving a broad vision for creating applications focused on needs, always working with automation, optimization, innovation and strategic thinking.
 
 <details>
-  <summary>:zap: Github Stats</summary>
+  <summary>Github Stats</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=viniciusanchieta&&show_icons=true&title_color=222222&icon_color=5658dd&text_color=333333&bg_color=ffffff">
 </details>
 
 <details>
-  <summary>:zap: Languages Used</summary>
+  <summary>Languages Used</summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusanchieta&layout=compact&bg_color=ffffff&text_color=333333">
 </details>
 <br/>
