@@ -1,6 +1,6 @@
 # Vinicius Anchieta
 
-Full Stack Developer
+Full Stack Developer | Ethical hacker
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-5658dd?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusanchieta/)](https://www.linkedin.com/in/viniciusanchieta/) 
 [![Medium Badge](https://img.shields.io/badge/-Medium-5658dd?style=flat-square&logo=Medium&logoColor=white&&link=https://medium.com/@viniciusanchieta)](https://medium.com/@viniciusanchieta)
