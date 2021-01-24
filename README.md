@@ -10,11 +10,15 @@ As my background materialized in the area of T.I focused on systems' development
 
 <details>
   <summary>Github Stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=viniciusanchieta&&show_icons=true&title_color=222222&icon_color=5658dd&text_color=333333&bg_color=ffffff">
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=viniciusanchieta&hide_border=true&theme=dark&show_icons=true&icon_color=5658dd">
+  </div>
 </details>
 
 <details>
   <summary>Languages Used</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusanchieta&layout=compact&bg_color=ffffff&text_color=333333">
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciusanchieta&hide_border=true&theme=dark&show_icons=true&icon_color=5658dd">
+  </div>
 </details>
 <br/>
