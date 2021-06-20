@@ -9,17 +9,12 @@ Full Stack Developer | Ethical hacker
 
 As my background materialized in the area of T.I focused on systems' development, I focused on achieving a broad vision for creating applications focused on needs, always working with automation, optimization, innovation and strategic thinking.
 
-<details>
+<div>
   <summary>Github Stats</summary>
-  <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=viniciusanchieta&hide_border=true&theme=dark&show_icons=true&icon_color=5658dd">
-  </div>
-</details>
-
-<details>
+</div>
+<div>
   <summary>Languages Used</summary>
-  <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciusanchieta&hide_border=true&theme=dark&show_icons=true&icon_color=5658dd">
-  </div>
-</details>
+</div>
 <br/>
