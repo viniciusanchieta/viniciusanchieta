@@ -21,7 +21,6 @@ As my background materialized in the area of T.I focused on systems' development
   <img src="https://img.shields.io/badge/-React-5658dd?style=flat-square&logo=React&logoColor=white">
   <img src="https://img.shields.io/badge/-React%20Native-5658dd?style=flat-square&logo=React&logoColor=white">
   <img src="https://img.shields.io/badge/-Node.js-5658dd?style=flat-square&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-Express-5658dd?style=flat-square&logo=Express&logoColor=white">
   <img src="https://img.shields.io/badge/-Next.js-5658dd?style=flat-square&logo=Next.js&logoColor=white">
   <img src="https://img.shields.io/badge/-HTML5-5658dd?style=flat-square&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/-CSS3-5658dd?style=flat-square&logo=CSS3&logoColor=white">
