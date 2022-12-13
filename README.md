@@ -4,6 +4,7 @@ Front-end Developer
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-5658dd?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusanchieta/)](https://www.linkedin.com/in/viniciusanchieta/) 
 [![Medium Badge](https://img.shields.io/badge/-Medium-5658dd?style=flat-square&logo=Medium&logoColor=white&&link=https://medium.com/@viniciusanchieta)](https://medium.com/@viniciusanchieta)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-5658dd?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/vi_anchieta)](https://twitter.com/vi_anchieta)
 
 As my background materialized in the area of T.I focused on systems' development, I focused on achieving a broad vision for creating applications focused on needs, always working with automation, optimization, innovation and strategic thinking.
 
