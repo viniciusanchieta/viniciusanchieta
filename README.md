@@ -6,8 +6,6 @@ Front-end Developer
 [![Medium Badge](https://img.shields.io/badge/-Medium-5658dd?style=flat-square&logo=Medium&logoColor=white&&link=https://medium.com/@viniciusanchieta)](https://medium.com/@viniciusanchieta)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-5658dd?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/vi_anchieta)](https://twitter.com/vi_anchieta)
 
-As my background materialized in the area of T.I focused on systems' development, I focused on achieving a broad vision for creating applications focused on needs, always working with automation, optimization, innovation and strategic thinking.
-
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=viniciusanchieta&hide_border=true&theme=dark&show_icons=true&icon_color=5658dd">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusanchieta&layout=compact&hide_border=true&theme=dark&show_icons=true&icon_color=5658dd">
