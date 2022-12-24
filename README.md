@@ -5,6 +5,7 @@ Front-end Developer
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-5658dd?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusanchieta/)](https://www.linkedin.com/in/viniciusanchieta/) 
 [![Medium Badge](https://img.shields.io/badge/-Medium-5658dd?style=flat-square&logo=Medium&logoColor=white&&link=https://medium.com/@viniciusanchieta)](https://medium.com/@viniciusanchieta)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-5658dd?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/vi_anchieta)](https://twitter.com/vi_anchieta)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-5658dd?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/viniciusanchieta.dev/)](https://www.instagram.com/viniciusanchieta.dev/)
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=viniciusanchieta&hide_border=true&theme=dark&show_icons=true&icon_color=5658dd">
