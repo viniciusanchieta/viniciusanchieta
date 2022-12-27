@@ -8,8 +8,8 @@ Front-end Developer
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-5658dd?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/viniciusanchieta.dev/)](https://www.instagram.com/viniciusanchieta.dev/)
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=viniciusanchieta&hide_border=true&theme=dark&show_icons=true&icon_color=5658dd">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusanchieta&layout=compact&hide_border=true&theme=dark&show_icons=true&icon_color=5658dd">
+  <img src="https://github-readme-stats.vercel.app/api?username=viniciusanchieta&hide_border=true&theme=dark&show_icons=true&icon_color=5658dd" style="display: inline-block">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusanchieta&layout=compact&hide_border=true&theme=dark&show_icons=true&icon_color=5658dd" style="display: inline-block; height: 196px">
 </div>
 <br/>
 
