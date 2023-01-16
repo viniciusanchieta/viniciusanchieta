@@ -13,7 +13,7 @@ Front-end Developer
 <br/>
 
 ## Technologies & Tools
-#### Techs and tools that I have experience with
+#### Techs and tools that I have experience with:
 <div>
   <img src="https://img.shields.io/badge/-TypeScript-5658dd?style=flat-square&logo=TypeScript&logoColor=white">
   <img src="https://img.shields.io/badge/-JavaScript-5658dd?style=flat-square&logo=JavaScript&logoColor=white">
