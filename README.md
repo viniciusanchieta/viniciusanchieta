@@ -12,7 +12,7 @@ Front-end Developer
 </div>
 <br/>
 
-## Technologies & Tools
+## Technologies
 #### Techs and tools that I have experience with:
 <div>
   <img src="https://img.shields.io/badge/-TypeScript-5658dd?style=flat-square&logo=TypeScript&logoColor=white">
