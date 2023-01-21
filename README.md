@@ -26,4 +26,3 @@ Front-end Developer
   <img src="https://img.shields.io/badge/-Styled%20Components-5658dd?style=flat-square&logo=styled-components&logoColor=white">
   <img src="https://img.shields.io/badge/-Jest-5658dd?style=flat-square&logo=Jest&logoColor=white">
   <img src="https://img.shields.io/badge/-React%20Testing%20Library-5658dd?style=flat-square&logo=React&logoColor=white">
-  <img src="https://img.shields.io/badge/-Git-5658dd?style=flat-square&logo=Git&logoColor">
