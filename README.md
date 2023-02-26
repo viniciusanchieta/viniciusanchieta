@@ -8,7 +8,7 @@ Front-end Engineer
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-5658dd?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/vi_anchieta)](https://twitter.com/vi_anchieta)
 
 
-Front-end developer with skills in HTML, CSS, JavaScript, TypeScript, and proficient in using React, Next.js, React Native, Material-UI, and Tailwind CSS for creating attractive and intuitive user interfaces. Proficient in unit testing. 
+Front-end developer with skills in HTML, CSS, JavaScript, TypeScript, and proficient in using React, Next.js, React Native, Material-UI, and Tailwind CSS for creating attractive and intuitive user interfaces. Currently studying Flutter to expand skills in mobile application development. Proficient in unit testing.
 
 Passionate about innovation and always seeking to learn new technologies to provide creative and efficient solutions for projects. Working to create an excellent user experience, whether on a mobile or desktop device.
 
