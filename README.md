@@ -6,6 +6,7 @@ Front-end Engineer
 [![Medium Badge](https://img.shields.io/badge/-Medium-5658dd?style=flat-square&logo=Medium&logoColor=white&&link=https://medium.com/@viniciusanchieta)](https://medium.com/@viniciusanchieta)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-5658dd?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/viniciusanchieta.dev/)](https://www.instagram.com/viniciusanchieta.dev/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-5658dd?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/vi_anchieta)](https://twitter.com/vi_anchieta)
+[![YouTube Badge](https://img.shields.io/badge/-Twitter-5658dd?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/@viniciusanchieta)](https://www.youtube.com/@viniciusanchieta)
 
 
 Front-end developer with skills in HTML, CSS, JavaScript, TypeScript, and proficient in using React, Next.js, React Native, Material-UI, and Tailwind CSS for creating attractive and intuitive user interfaces. Currently studying Flutter to expand skills in mobile application development. Proficient in unit testing.
