@@ -6,7 +6,7 @@ Front-end Engineer
 [![Medium Badge](https://img.shields.io/badge/-Medium-5658dd?style=flat-square&logo=Medium&logoColor=white&&link=https://medium.com/@viniciusanchieta)](https://medium.com/@viniciusanchieta)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-5658dd?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/viniciusanchieta.dev/)](https://www.instagram.com/viniciusanchieta.dev/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-5658dd?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/vi_anchieta)](https://twitter.com/vi_anchieta)
-[![YouTube Badge](https://img.shields.io/badge/-Twitter-5658dd?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/@viniciusanchieta)](https://www.youtube.com/@viniciusanchieta)
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-5658dd?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/@viniciusanchieta)](https://www.youtube.com/@viniciusanchieta)
 
 
 Front-end developer with skills in HTML, CSS, JavaScript, TypeScript, and proficient in using React, Next.js, React Native, Material-UI, and Tailwind CSS for creating attractive and intuitive user interfaces. Currently studying Flutter to expand skills in mobile application development. Proficient in unit testing.
@@ -14,8 +14,8 @@ Front-end developer with skills in HTML, CSS, JavaScript, TypeScript, and profic
 Passionate about innovation and always seeking to learn new technologies to provide creative and efficient solutions for projects. Working to create an excellent user experience, whether on a mobile or desktop device.
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=viniciusanchieta&hide_border=true&theme=dark&show_icons=true&icon_color=5658dd" style="display: inline-block; width: 410px;height: 196px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusanchieta&layout=compact&hide_border=true&theme=dark&show_icons=true&icon_color=5658dd" style="display: inline-block; width: 350px; height: 196px">
+  <img src="https://github-readme-stats.vercel.app/api?username=viniciusanchieta&hide_border=true&theme=dark&show_icons=true&icon_color=5658dd">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusanchieta&layout=compact&hide_border=true&theme=dark&show_icons=true&icon_color=5658dd">
 </div>
 <br/>
 
