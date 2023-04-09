@@ -1,4 +1,7 @@
-# Vinicius Anchieta
+<div>
+  <img src="https://user-images.githubusercontent.com/31235308/230751721-9e22bea0-2b63-4102-8cbb-2e5206ef2400.png">
+  <h1>Vinicius Anchieta</h1>
+</div>
 
 Front-end Engineer
 
