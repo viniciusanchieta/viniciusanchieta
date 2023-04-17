@@ -12,9 +12,7 @@ Software Engineer
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-5658dd?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/@viniciusanchieta)](https://www.youtube.com/@viniciusanchieta)
 
 
-Front-end developer with skills in HTML, CSS, JavaScript, TypeScript, and proficient in using React, Next.js, React Native, Material-UI, and Tailwind CSS for creating attractive and intuitive user interfaces. Currently studying Flutter to expand skills in mobile application development. Proficient in unit testing.
-
-Passionate about innovation and always seeking to learn new technologies to provide creative and efficient solutions for projects. Working to create an excellent user experience, whether on a mobile or desktop device.
+I'm a software engineer with skills in HTML, CSS, JavaScript, and TypeScript, and proficient in using ReactJS, NextJS, React Native, Material-UI, and Tailwind CSS for creating attractive and intuitive user interfaces. I have experience with documentation using Storybook and unit testing with Jest and Testing Library, and I'm passionate about innovation and always seeking to learn new technologies to provide creative and efficient solutions for projects. I strive to create an excellent user experience, whether on a mobile or desktop device.
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=viniciusanchieta&hide_border=true&theme=dark&show_icons=true&icon_color=5658dd">
