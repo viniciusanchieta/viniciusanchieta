@@ -1,5 +1,5 @@
 <div>
-  <img src="https://user-images.githubusercontent.com/31235308/230751721-9e22bea0-2b63-4102-8cbb-2e5206ef2400.png">
+  <img width="40" src="https://user-images.githubusercontent.com/31235308/233757148-892564b0-b452-4b48-9875-d656f0baba19.png">
   <h1>Vinicius Anchieta</h1>
 </div>
 
@@ -15,6 +15,6 @@ I'm a software engineer with skills in HTML, CSS, JavaScript, and TypeScript, an
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=viniciusanchieta&hide_border=true&theme=dark&show_icons=true&icon_color=5658dd">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusanchieta&layout=compact&hide_border=true&theme=dark&show_icons=true&icon_color=5658dd">
+  <img width="354" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusanchieta&layout=compact&hide_border=true&theme=dark&show_icons=true&icon_color=5658dd">
 </div>
 <br/>
