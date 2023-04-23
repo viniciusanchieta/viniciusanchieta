@@ -15,6 +15,6 @@ I'm a software engineer with skills in HTML, CSS, JavaScript, and TypeScript, an
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=viniciusanchieta&hide_border=true&theme=dark&show_icons=true&icon_color=5658dd">
-  <img width="354" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusanchieta&layout=compact&hide_border=true&theme=dark&show_icons=true&icon_color=5658dd">
+  <img width="356" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusanchieta&layout=compact&hide_border=true&theme=dark&show_icons=true&icon_color=5658dd">
 </div>
 <br/>
