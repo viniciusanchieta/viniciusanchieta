@@ -1,5 +1,5 @@
 <div>
-  <img width="40" src="https://user-images.githubusercontent.com/31235308/233757148-892564b0-b452-4b48-9875-d656f0baba19.png">
+  <img width="41" src="https://user-images.githubusercontent.com/31235308/233757148-892564b0-b452-4b48-9875-d656f0baba19.png">
   <h1>Vinicius Anchieta</h1>
 </div>
 
