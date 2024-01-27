@@ -3,7 +3,7 @@
   <h1>Vinicius Anchieta</h1>
 </div>
 
-Senior Software Engineer
+<p>Senior Software Engineer <span><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Stone_pagamentos.png/800px-Stone_pagamentos.png"></span></p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-5658dd?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusanchieta/)](https://www.linkedin.com/in/viniciusanchieta/) 
 [![Medium Badge](https://img.shields.io/badge/-Medium-5658dd?style=flat-square&logo=Medium&logoColor=white&&link=https://medium.com/@viniciusanchieta)](https://medium.com/@viniciusanchieta)
